@@ -1,0 +1,324 @@
+    1  sudo ./VBoxLinuxAdditions.run 
+    2  exit
+    3  cd
+    4  tree
+    5  sudo apt install tree
+    6  exit
+    7  su
+    8  sudo su
+    9  exit
+   10  xrandr
+   11  xrandr -s 0
+   12  gedit xorg.conf
+   13  sudo apt install gedit
+   14  gedit xorg.conf
+   15  exit
+   16  cd
+   17  tree
+   18  xrandr
+   19  xrandr -s 2
+   20  xrandr
+   21  xrandr -s 0
+   22  sudo dpkg -i opera.deb
+   23  wich opera
+   24  which opera
+   25  which var
+   26  which /dev/
+   27  sudo apt install which
+   28  sudo apt install debianutils 
+   29  sudo which var
+   30  cd 
+   31  pwd
+   32  which Dowlands
+   33  wish
+   34  which
+   35  cd /var/lib/apt/list
+   36  cd /var/lib/apt/
+   37  ls
+   38  ls -l
+   39  sudo mkdir -p Opera
+   40  sudo mount -t Opera
+   41  sudo mount -t voxsf Opera /home/osboxes/Escritorio/Opera/
+   42  sudo mount -t vboxsf Opera /home/osboxes/Escritorio/Opera/
+   43  cd /home/osboxes/Escritorio/Opera/
+   44  ls
+   45  sudo dpkg -i opera-stable_56.0.3051.43_amd64.deb 
+   46  cd /home/osboxes/Escritorio/Opera/
+   47  ls
+   48  sudo mount -t vboxsf Opera /home/osboxes/Escritorio/Opera/
+   49  ls
+   50  pwd
+   51  ls -l
+   52  tree
+   53  cd /home/osboxes/Escritorio/
+   54  ls
+   55  ls -l
+   56  cd /home/osboxes/Escritorio/Opera/
+   57  LS
+   58  ls
+   59  sudo dpkg -i opera-stable_56.0.3051.43_amd64.deb 
+   60  sudo dpkg --configure -a
+   61  sudo apt-get install -f opera-stable 
+   62  lsof /var/lib/dpkg/lock 
+   63  ls
+   64  ps cax | grep PID
+   65  sudo rm /var/lib/dpkg/lock 
+   66  sudo dpkg --configure -a
+   67  sudo apt-get install libcurll3 && sudo apt-get install libcurl4
+   68  sudo apt-get install libcurl3 && sudo apt-get install libcurl4
+   69  sudo dpkg --configure -a
+   70  sudo dpkg -i opera-stable_56.0.3051.43_amd64.deb 
+   71  dpkg man
+   72  man dpkg
+   73  sudo apt-get remove opera-stable 
+   74  sudo apt-get clean
+   75  sudo apt-get autoclean
+   76  pwd
+   77  ls
+   78  sudo dpkg -i opera-stable_56.0.3051.43_amd64.deb 
+   79  man apt-get
+   80  sudo apt-get update
+   81  sudo apt-get upgrade 
+   82  which /opt/
+   83  sudo atp-get install which
+   84  sudo apt-get install which
+   85  which /bin/
+   86  which -a /bin/
+   87  sudo dpkg -i which
+   88  wihs
+   89  wich
+   90  sudo apt install debiannutils
+   91  sudo apt-get install debianutils 
+   92  which /bin/
+   93  cd /home/osboxes/
+   94  which Escritorio
+   95  tree
+   96  which Musica
+   97  which Plantillas
+   98  wich 
+   99  man which
+  100  sudo which /bin 
+  101  ls
+  102  ls -l
+  103  sudo apt install which
+  104  sudo apt install -f which
+  105  pwd
+  106  wich
+  107  which
+  108  which bin
+  109  man which
+  110  which -bin
+  111  which - bin
+  112  cd /usr/bin/which
+  113  cd /usr/bin/
+  114  ls
+  115  ls-l
+  116  ls -l
+  117  sudo dpkg -i sublime_text_3/
+  118  cd /home/osboxes/Downloads/
+  119  ls
+  120  cd /home/osboxes/Downloads/
+  121  ls{
+  122  ls
+  123  sudo tar -xvf Sublime\ Text\ 2.0.2\ x64.tar.bz2 
+  124  sudo tee /etc/apt/sources.list.d/sublime-text.list
+  125  sudo apt-get install sublimine-text
+  126  cd /home/osboxes/Escritorio/Opera/
+  127  ls
+  128  sudo rm -r sublime_text_3
+  129  sudo rm -r sublime_text_3_build_3176_x64.tar.bz2 
+  130  cd /home/osboxes/Downloads/
+  131  ls
+  132  rm -r sublimehq-pub.gpg 
+  133  rm -r Sublime Text 2
+  134  ls
+  135  rm -r Sublime\ Text\ 2
+  136  rm -r Sublime\ Text\ 2.0.2\ x64.tar.bz2 
+  137  exit
+  138  which -a bin
+  139  which --help
+  140  sudo mount -t vboxsf Opera /home/osboxes/Escritorio/Opera/
+  141  ls
+  142  cd /home/osboxes/Escritorio/Opera/
+  143  ls
+  144  sudo tar -xvf sublime_text_3_build_3176_x64.tar.bz2 
+  145  exit
+  146  exit
+  147  which amd
+  148  cd /amd
+  149  cd /home/osboxes/Downloads/
+  150  ls
+  151  sudo dpkg -i sublime-text_3143_amd64.deb 
+  152  sudo apt-get update sublime-text
+  153  sudo apt-get update 
+  154  sudo apt-get install sublime-text
+  155  sudo apt-get upgrade
+  156  sudo apt-get update 
+  157  sudo apt-get Sublime Text
+  158  sudo apt-get install Sublime Text
+  159  sudo apt-get install Sublime Text --only-upgrate
+  160  sudo apt-get update Sublime Text
+  161  sudo apt-get update {Sublime Text}
+  162  sudo apt-get upgrade {Sublime Text}
+  163  sudo apt-get upgrade Sublime Text
+  164  sudo apt-get upgrade sublime-text
+  165  sudo apt-get remove sublime-text 
+  166  sudo apt-get clean 
+  167  sudo apt-get autoremove
+  168  exit
+  169  rm -r Sublime\ Text\ 2.0.2\ x64.tar.bz2 
+  170  rm -r sublime-text_3143_amd64.deb 
+  171  exit
+  172  cd 
+  173  pwd
+  174  unzip
+  175  unzip -p /home/osboxes/Downloads/Cuatrimestre_2_2017-master.zip 
+  176  unzip /home/osboxes/Downloads/Cuatrimestre_2_2017-master.zip 
+  177  wget https://downloadsapachefriends.global.ssl.fastly.net/xampp-files/7.1.8/xampp-linux-x64-
+  178  7.1.8-0-installer.run?from_af=true
+  179  wget https://downloadsapachefriends.global.ssl.fastly.net/xampp-files/7.1.8/xampp-linux-x64-
+  180  https://downloadsapachefriends.global.ssl.fastly.net/xampp-files/7.1.8/xampp-linux-x64-
+  181  https://downloadsapachefriends.global.ssl.fastly.net/xampp-files/7.1.8/xampp-linux-x64-7.1.8-0-installer.run?from_af=true
+  182  wget https://downloadsapachefriends.global.ssl.fastly.net/xampp-files/7.1.8/xampp-linux-x64-7.1.8-0-installer.run?from_af=true
+  183  sh /home/osboxes/Escritorio/xampp-linux-x64-7.1.8-0-installer.run?from_af=true
+  184  sudo sh xampp-linux-x64-7.1.8-0-installer.run?from_af=true
+  185  cd /home/osboxes/Escritorio/
+  186  sh 
+  187  cd /home/osboxes/Escritorio/
+  188  tree
+  189  sudo chmod +x xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true 
+  190  sudo chown osboxes xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true 
+  191  sudo chown osboxes 
+  192  sudo chown osboxes /home/osboxes/Escritorio/
+  193  ls -l /home/osboxes/Escritorio/
+  194  sudo chown osboxes xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true 
+  195  sudo chmod 777 xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true 
+  196  ls -l
+  197  sudo chmod +x xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true 
+  198  gksudo /home/osboxes/Escritorio/xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true 
+  199  sudo apt install gksudo
+  200  gksudo /home/osboxes/Escritorio/xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true 
+  201  sudo apt-get install gksu
+  202  gksudo /home/osboxes/Escritorio/xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true 
+  203  sudo apt install gfarm-client
+  204  sudo apt-get install gksu
+  205  gksudo /home/osboxes/Escritorio/xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true 
+  206  mv xampp-linux-x64-7.1.8-0-installer.run\?from_af\=true /home/osboxes/Downloads/
+  207  gksudo
+  208  sudo su 
+  209  cd /opt
+  210  pwd
+  211  cd /opt/lampp/htdocs/
+  212  mv owcloud/ owncloud
+  213  sudo su 
+  214  sudo su
+  215  exit
+  216  cd /opt/
+  217  ls -l 
+  218  cd /opt/lampp/
+  219  ls -l
+  220  sudo chown osboxes /opt/lampp/htdocs/
+  221  sudo chmod 777 /opt/lampp/htdocs/
+  222  ls -l /opt/lampp/
+  223  sudo /opt/lampp/lampp start
+  224  sudo chown osboxes /opt/lampp/htdocs/
+  225  sudo chmod 755 /opt/lampp/htdocs/
+  226  sudo ls -l /opt/lampp/
+  227  cd /opt/lampp/htdocs/
+  228  ls -l 
+  229  sudo chown osboxes /opt/lampp/htdocs/owncloud/
+  230  sudo chmod 777 /opt/lampp/htdocs/owncloud/
+  231  ls -l
+  232  sudo -u www-data ls -la /path/to/folder
+  233  sudo -u www-data ls -l /path/to/folder
+  234  sudo chmod 755 /opt/lampp/htdocs/owncloud/
+  235  ls -l
+  236  cd /opt/lampp/
+  237  ls -l
+  238  cd /opt/lampp/htdocs/owncloud/
+  239  ls -l
+  240  chown osboxes /opt/lampp/htdocs/owncloud/config
+  241  sudo chown osboxes /opt/lampp/htdocs/owncloud/config/
+  242  sudo chmod 777 /opt/lampp/htdocs/owncloud/config/
+  243  sudo chown osboxes /opt/lampp/htdocs/owncloud/apps/
+  244  sudo chmod 777 /opt/lampp/htdocs/owncloud/apps/
+  245  cd /opt/lampp/htdocs/owncloud/
+  246  mkdir -p data
+  247  tree
+  248  clear
+  249  rm -r /opt/lampp/htdocs/owncloud/data/
+  250  which www-data
+  251  cd /www-data
+  252  cd /home/
+  253  cd
+  254  which www-data
+  255  sudo -u www-data ls -la /opt/lampp/htdocs/owncloud/
+  256  cd /opt/lampp/htdocs/
+  257  ls -l
+  258  sudo chown osboxes /opt/lampp/htdocs/owncloud/
+  259  sudo chmod 777 /opt/lampp/htdocs/owncloud/
+  260  sudo cp -r /opt/lampp/ /media/osboxes/KINGSTON/lampp
+  261  sudo su 
+  262  cd /media/osboxes/KINGSTON/
+  263  ls -l
+  264  rm -r /media/osboxes/KINGSTON/lampp/
+  265  clear
+  266  cd /home/
+  267  netstat-r
+  268  netstat -r
+  269  ifconfig
+  270  cd /opt/lampp/htdocs/owncloud/
+  271  sudo run-mailcap /opt/lampp/htdocs/owncloud/config/config.php 
+  272  gnome-desktop-item-edit /home/osboxes/Escritorio/ --create-new
+  273  sudo apt install gnome-panel
+  274  gnome-desktop-item-edit /home/osboxes/Escritorio/ --create-new
+  275  sudo gnome-desktop-item-edit /home/osboxes/Escritorio/ --create-new
+  276  sudo /opt/lampp/ lammp start
+  277  sudo /opt/lampp/lampp start
+  278  ip
+  279  ipconfig
+  280  ls -l
+  281  ipconfig
+  282  ifconfig
+  283  sudo /opt/lampp/lampp stop
+  284  sudo /opt/lampp/lampp start
+  285  sudo /opt/lampp/lampp stop
+  286  sudo /opt/lampp/lampp start
+  287  netstat -f
+  288  netstat -r
+  289  sudo chown osboxes /opt/lampp/etc/extra/httpd-xampp.conf 
+  290  sudo chmod 644 /opt/lampp/etc/extra/httpd-xampp.conf 
+  291  cd /opt/lampp/etc/extra/
+  292  ls -l
+  293  sudo /opt/lampp/lampp start
+  294  exit
+  295  ls -l
+  296  sudo chown osboxes /opt/lampp/etc/extra/httpd-xampp.conf 
+  297  sudo chmod 777 /opt/lampp/etc/extra/httpd-xampp.conf 
+  298  sudo chmod 644 /opt/lampp/etc/extra/httpd-xampp.conf 
+  299  ls -l
+  300  sudo chmod 777 /opt/lampp/etc/extra/httpd-xampp.conf 
+  301  ls -l
+  302  sudo /opt/lampp/lampp stop
+  303  sudo /opt/lampp/lampp start
+  304  sudo /opt/lampp/lampp stop
+  305  exit
+  306  sudo /opt/lampp/lampp start
+  307  exit
+  308  sudo su /home/osboxes
+  309  sudo su
+  310  ntp
+  311  install ntp
+  312  install --help
+  313  sudo /opt/lampp/lampp start
+  314  cd /home/osboxes/
+  315  mkdir -p "GitHub"
+  316  cd GitHub/
+  317  git clone https://github.com/nahuelvallejos21/EjemploGitHub.git
+  318  sudo apt install git
+  319  git clone https://github.com/nahuelvallejos21/EjemploGitHub.git
+  320  cd EjemploGitHub/
+  321  git status
+  322  cat > "Hola"
+  323  mv Hola Datos.txt
+  324  history >> /home/osboxes/GitHub/EjemploGitHub/Datos.txt 
